@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @ChantalThom
+- 👀 I’m interested in Solving Business Problems with Data
+- 🌱 I’m currently learning Python, SQL, and Machine Learning
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: Email me at ChantalT1@gmail.com
+- 😄 Pronouns: She/Her/Hers
+- ⚡ Fun fact: I am a data-driven and I love to sing show tunes...
+<!---
+ChantalThom/ChantalThom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
