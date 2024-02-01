@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChantalThom
 - 👀 I’m interested in Solving Business Problems with Data
-- 🌱 I’m currently learning Python, SQL, and Machine Learning
+- 🌱 I’m currently learning Python, SQL, NoSQL, and Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Email me at ChantalT1@gmail.com
 - 😄 Pronouns: She/Her/Hers
